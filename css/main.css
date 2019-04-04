@@ -21,6 +21,11 @@ ul.sidenav {
 .brand-logo {
   font-size: 1.6em !important;
 }
+@media screen and (max-width: 400px) {
+  .brand-logo {
+    font-size: 1.4em !important;
+  }
+}
 .hamburger {
   font-size: 30px !important;
 }
